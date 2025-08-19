@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nome": "Maria Silva",
+    "empresa": "Tech Solutions",
+    "email": "maria@tech.com",
+    "fonte": "LinkedIn",
+    "pontuacao": 85,
+    "status": "Novo"
+  },
+  {
+    "id": 2,
+    "nome": "João Santos",
+    "empresa": "Inova Ltda",
+    "email": "joao@inova.com",
+    "fonte": "Indicação",
+    "pontuacao": 70,
+    "status": "Em Contato"
+  }
+]
